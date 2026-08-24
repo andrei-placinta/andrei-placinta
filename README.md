@@ -2,41 +2,29 @@
 
 **Software Engineer | Embedded Software | Web Development**
 
-Software Engineer with experience across embedded automotive software and web application development.
+Software Engineer with experience in both embedded automotive software and web development.
 
-My background includes working primarily with **C** in embedded automotive projects, with a focus on **unit testing, debugging, test environments and static code analysis**. I also have hands-on experience building web applications and digital platforms using **PHP, JavaScript, TypeScript, React and SQL**.
+My experience includes working primarily with **C** in embedded automotive projects, with limited exposure to **C++**. My work has focused on **unit testing, test environments, debugging, code coverage and static code analysis**, using tools such as Google Test, CMake and Helix QAC.
 
-I enjoy working on software that combines practical problem-solving with clean, reliable implementation, and I am continuously expanding my experience across both embedded and application development.
+I also have experience developing web applications and digital platforms using **PHP, JavaScript, TypeScript, React and SQL**, including dashboards, authentication, payment integrations, databases, automation, analytics and document workflows.
 
-## What I Work With
+I enjoy learning new technologies, solving technical problems and building practical software that is reliable and easy to use.
 
-* **Embedded Software:** C, C++, Arduino, embedded systems
-* **Web Development:** PHP, JavaScript, TypeScript, React, HTML, CSS
-* **Databases:** SQL, MySQL
-* **Testing & Quality:** Google Test, unit testing, debugging, static analysis
-* **Tools:** Git, CMake, Jira, Confluence
+## Technologies
 
-## Selected Projects
+**Languages:** C · C++ · PHP · JavaScript · TypeScript · SQL
+
+**Web:** React · HTML · CSS
+
+**Testing & Development:** Google Test · Unit Testing · CMake · Git
+
+**Tools:** Jira · Confluence · Helix QAC
+
+## Project
 
 ### Real-Time Transportation Ticketing Platform
 
-A web-based reservation and ticketing system built with **PHP, JavaScript and MySQL**, featuring booking functionality, authentication, email notifications and database-level protection for concurrent reservations.
-
-### Arduino-Based Embedded Control System
-
-An embedded project developed with **C++ and Arduino**, involving UART communication, temperature sensing, ADC, timers, interrupts, PWM control and a 7-segment display.
-
-### Time-Delivery
-
-A **C-based delivery management system** with a command-line interface, dynamic memory allocation, file-based persistence, structured data management and custom sorting algorithms.
-
-### E-Commerce Platform
-
-A **PHP and MySQL** web application implementing product management, CRUD operations, search functionality, input validation and protection against SQL injection and XSS.
-
-### Android Reverse Engineering Lab
-
-A security-focused project involving **static and dynamic analysis of an Android application**, using tools such as Frida, JADX and APKTool.
+Web-based transportation reservation and ticketing platform developed with **PHP, JavaScript and MySQL**, featuring booking functionality, authentication, email notifications and database-backed management of reservations.
 
 ## Education
 
@@ -48,4 +36,4 @@ Politehnica University Timișoara · 2019–2023
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/andrei-viorel-placinta/)
+**LinkedIn:** Andrei-Viorel Plăcintă
