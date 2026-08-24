@@ -26,6 +26,22 @@ I enjoy learning new technologies, solving technical problems and building pract
 
 Web-based transportation reservation and ticketing platform developed with **PHP, JavaScript and MySQL**, featuring booking functionality, authentication, email notifications and database-backed management of reservations.
 
+[View project](https://github.com/andrei-placinta/Real-Time-Transportation-Ticketing-Platform)
+
+## Professional Work
+
+### Poftă
+
+Web platform for restaurant loyalty, QR campaigns, customer management and marketing automation.
+
+[Visit website](https://pofta.mypofta.workers.dev/)
+
+### Fundația Nektarios
+
+Website and digital platform supporting donations, campaigns, reservations and community engagement.
+
+[Visit website](https://fundatianektarios.ro/)
+
 ## Education
 
 **MSc — Security of Information and Cyber Systems**
