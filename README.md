@@ -36,4 +36,4 @@ Politehnica University Timișoara · 2019–2023
 
 ## Connect
 
-**LinkedIn:** Andrei-Viorel Plăcintă
+[LinkedIn](https://www.linkedin.com/in/andrei-viorel-placinta/)
