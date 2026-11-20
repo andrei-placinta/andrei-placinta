@@ -25,31 +25,43 @@ Previously, at Continental, I worked on C-based embedded software testing for au
 ### Software Developer — Nonprofit Organization
 **February 2026 – Present**
 
-Contribute to the development and maintenance of several web applications and digital platforms:
+Contribute to the development and maintenance of several web applications and digital platforms.
+
+---
 
 #### Multi-Tenant Nonprofit SaaS Platform
 
-Contributed to a multi-tenant SaaS platform for nonprofit organizations, working on organization onboarding, authentication, memberships, role-based access control (RBAC), tenant data isolation using PostgreSQL Row-Level Security (RLS), and CRM/administrative workflows.
+Contributed to a multi-tenant SaaS platform for nonprofit organizations.
 
-**Technologies:** Next.js, React, TypeScript, Drizzle ORM, Supabase, PostgreSQL.
+- **Key areas:** Organization onboarding, authentication, memberships, role-based access control (RBAC), tenant data isolation using PostgreSQL Row-Level Security (RLS), and CRM/admin workflows.
+- **Technologies:** `Next.js` `React` `TypeScript` `Drizzle ORM` `Supabase` `PostgreSQL`
+
+---
 
 #### Restaurant Loyalty & Ordering Platform
 
-Contributed to a restaurant platform featuring restaurant and customer accounts, QR-based ordering, menu and product management, dashboards, loyalty rewards, discounts, subscriptions and live order management (KDS).
+Contributed to a restaurant platform supporting digital ordering and customer loyalty.
 
-**Technologies:** React, TypeScript, Supabase, Stripe, Cloudflare.
+- **Key features:** Restaurant and customer accounts, QR-based ordering, menu and product management, dashboards, loyalty rewards, discounts, subscriptions, and live order management (KDS).
+- **Technologies:** `React` `TypeScript` `Supabase` `Stripe` `Cloudflare`
+
+---
 
 #### Nonprofit Donation & Management Platform
 
-Worked on donation and reservation workflows, Stripe payments, form validation, administrative dashboards, campaign management, PDF generation, electronic signatures and automated email delivery.
+Worked on donation, reservation, and administrative workflows.
 
-**Technologies:** PHP, JavaScript, WordPress, Stripe, BoldSign.
+- **Key features:** Stripe payments, form validation, administrative dashboards, campaign management, PDF generation, electronic signatures, and automated email delivery.
+- **Technologies:** `PHP` `JavaScript` `WordPress` `Stripe` `BoldSign`
+
+---
 
 #### Website Redesign & Content Management
 
-Contributed to website redesign and migration, frontend development, Node.js serverless API endpoints backed by PostgreSQL, and administrative functionality for managing website content, media, audio resources and events.
+Contributed to website redesign and migration, frontend development, and backend functionality.
 
-**Technologies:** WordPress, JavaScript, Node.js, PostgreSQL, Vercel.
+- **Key areas:** Node.js serverless API endpoints backed by PostgreSQL, plus administrative features for managing website content, media, audio resources, and events.
+- **Technologies:** `WordPress` `JavaScript` `Node.js` `PostgreSQL` `Vercel`
 
 ### Software Engineer Intern — Continental
 **July 2022 – October 2024**
