@@ -116,9 +116,15 @@ Worked on C-based embedded software testing for automotive radar and ADAS projec
 
 ### Real-Time Transportation Ticketing Platform
 
-Developed a responsive transportation reservation and ticketing system using PHP, MySQL, JavaScript, HTML5, CSS3 and Bootstrap.
+Developed a responsive transportation reservation and ticketing system.
 
-Implemented **booking workflows**, **database row-level locking** for data integrity, **bcrypt password hashing** for authentication and **email notifications**.
+- **Key features:**
+  - Responsive booking and reservation workflows.
+  - Database row-level locking to ensure booking data integrity.
+  - Bcrypt password hashing for authentication.
+  - Email notifications.
+
+- **Tech Stack:** `PHP` · `MySQL` · `JavaScript` · `HTML5` · `CSS3` · `Bootstrap`
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrei-placinta/Real-Time-Transportation-Ticketing-Platform)
 
